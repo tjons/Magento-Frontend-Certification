@@ -1,5 +1,5 @@
 # Magento-Frontend-Certification
-Preparing for the Magento Front-end Developer Certification. Feel free to use these resources.
+Preparing for the Magento Front-end Developer Certification. Feel free to use this as a game plan.
 
 ##Resources
 - Demac Media study guide (http://www.demacmedia.com/magento-commerce/magento-frontend-developer-certification-exam-study-guide-qa/)
